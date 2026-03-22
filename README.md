@@ -168,11 +168,11 @@ Resource Sharing
   → Request marked fulfilled
 ```
 ## Team Members
-Suraj Gola
-Vibhor Sahu
-Tushar Kaushik
-Tushar Verma
-Harshvardhan Negi
+Suraj Gola,
+ Vibhor Sahu,
+ Tushar Kaushik,
+ Tushar Verma,
+ Harshvardhan Negi
 
 ## Contributors
 
