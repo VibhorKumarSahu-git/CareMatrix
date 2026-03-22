@@ -38,6 +38,18 @@ CareMatrix/
 | PredictionModel | ML-based patient surge forecasting |
 
 ---
+## 👨‍💻 My Contribution
+
+- Conducted research on real-world healthcare systems and existing solutions (US & Europe)  
+- Identified key gaps such as lack of real-time decision-making in current systems  
+- Designed the backend decision logic for patient flow optimization and resource allocation  
+- Defined critical system parameters including patient inflow, bed capacity, waiting time, and alert thresholds  
+- Worked closely with the ML team to ensure predictions translate into actionable outputs  
+- Contributed to shaping the overall system architecture to make it practical and scalable  
+
+## 🧠 My Role
+
+Focused on system design and decision intelligence, ensuring that predictive outputs are converted into real-world actions like patient redirection, resource allocation, and overload handling.
 
 ## Setup & Installation
 
