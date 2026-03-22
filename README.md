@@ -167,6 +167,12 @@ Resource Sharing
   → Requester selects provider
   → Request marked fulfilled
 ```
+## Team Members
+Suraj Gola
+Vibhor Sahu
+Tushar Kaushik
+Tushar Verma
+Harshvardhan Negi
 
 ## Contributors
 
